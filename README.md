@@ -3,7 +3,7 @@
 ## Homework Topic 11/12: DOM Model/ Events
 
 
-Task 1
+## Task 1
 
 HTML contains a list of categories ul#categories.
 
