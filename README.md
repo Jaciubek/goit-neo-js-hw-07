@@ -75,7 +75,7 @@ const images = [
 
 
 
-Task 3
+## Task 3
 
 Write a script that, while typing in the input#name-input (on input event), inserts its current value into span#name-output as the name for greeting. Ensure to trim leading and trailing spaces from the input value. If the input is empty or contains only spaces, replace the name in the span with "Anonymous".
 
@@ -84,7 +84,7 @@ Write a script that, while typing in the input#name-input (on input event), inse
 
 
 
-Task 4
+## Task 4
 
 Write a script to manage a login form.
 
@@ -108,7 +108,7 @@ Upon form submission, log the object containing the entered data to the console 
 
 
 
-Task 5
+## Task 5
 
 Write a script that changes the background colour of the <body> element through inline style when clicking on a button.change-color and sets this colour value as the text content for span.color.
 
@@ -131,7 +131,7 @@ Note that the getRandomHexColor() function returns a colour in hex format, where
 
 
 
-Task 6
+## Task 6
 
 Write a script for creating and clearing a collection of elements with the following functionality.
 
